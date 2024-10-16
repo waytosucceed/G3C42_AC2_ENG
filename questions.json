@@ -1,0 +1,242 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "Which word is the opposite of 'small'?",
+    "options": [
+      "Tiny",
+      "Big",
+      "Medium",
+      "Little"
+    ],
+    "correct": 1,
+    "explanation": "'Big' is the antonym of 'small'. While 'small' means little in size, 'big' means large or great in size."
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "Choose the antonym for 'older':",
+    "options": [
+      "Ancient",
+      "Elderly",
+      "Younger",
+      "Mature"
+    ],
+    "correct": 2,
+    "explanation": "'Younger' is the opposite of 'older'. 'Older' refers to having lived for more time, while 'younger' means having lived for less time."
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "What is the opposite of 'interested'?",
+    "options": [
+      "Bored",
+      "Curious",
+      "Excited",
+      "Fascinated"
+    ],
+    "correct": 0,
+    "explanation": "'Bored' is the antonym of 'interested'. When you're interested, you're engaged and curious, but when you're bored, you lack interest or excitement."
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Select the word that means the opposite of 'finish':",
+    "options": [
+      "Complete",
+      "End",
+      "Conclude",
+      "Start"
+    ],
+    "correct": 3,
+    "explanation": "'Start' is the antonym of 'finish'. To 'finish' means to come to the end of something, while to 'start' means to begin or commence."
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Which word is the antonym of 'follow'?",
+    "options": [
+      "Chase",
+      "Pursue",
+      "Lead",
+      "Trail"
+    ],
+    "correct": 2,
+    "explanation": "'Lead' is the opposite of 'follow'. When you follow, you go after someone or something, but when you lead, you go in front and guide others."
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "What's the opposite of 'born'?",
+    "options": [
+      "Live",
+      "Grow",
+      "Age",
+      "Die"
+    ],
+    "correct": 3,
+    "explanation": "'Die' is the antonym of 'born'. Being born means coming into life, while dying means leaving life or ceasing to live."
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "Choose the word that means the opposite of 'later':",
+    "options": [
+      "Soon",
+      "Earlier",
+      "After",
+      "Eventually"
+    ],
+    "correct": 1,
+    "explanation": "'Earlier' is the antonym of 'later'. 'Later' refers to a time in the future, while 'earlier' refers to a time before or in the past."
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "Which word is the opposite of 'attend'?",
+    "options": [
+      "Join",
+      "Participate",
+      "Skip",
+      "Go"
+    ],
+    "correct": 2,
+    "explanation": "'Skip' is the antonym of 'attend'. To attend means to be present at an event, while to skip means to miss or not go to that event."
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "Select the antonym for 'like':",
+    "options": [
+      "Love",
+      "Enjoy",
+      "Adore",
+      "Dislike"
+    ],
+    "correct": 3,
+    "explanation": "'Dislike' is the opposite of 'like'. When you like something, you have a positive feeling towards it, but when you dislike something, you have a negative feeling."
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "What's the opposite of 'strict'?",
+    "options": [
+      "Stern",
+      "Rigid",
+      "Relaxed",
+      "Tough"
+    ],
+    "correct": 2,
+    "explanation": "'Relaxed' is the antonym of 'strict'. 'Strict' means having exact rules or standards, while 'relaxed' means easy-going or not strict."
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "Choose the odd one out:",
+    "options": [
+      "Frosty",
+      "Warm",
+      "Cold",
+      "Freezing"
+    ],
+    "correct": 1,
+    "explanation": "'Warm' doesn't belong because it's not an antonym for 'hot'. The other words (frosty, cold, freezing) are opposites of 'hot'."
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Which pair of words are antonyms?",
+    "options": [
+      "Happy - Joyful",
+      "Sad - Gloomy",
+      "Excited - Thrilled",
+      "Brave - Scared"
+    ],
+    "correct": 3,
+    "explanation": "'Brave' and 'Scared' are antonyms. Brave means courageous, while scared means frightened or afraid."
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Fill in the blank with the correct antonym of the highlighted word: 'The shiny new car looked very different from the old _____ one.'",
+    "options": [
+      "Bright",
+      "Gleaming",
+      "Dull",
+      "Polished"
+    ],
+    "correct": 2,
+    "explanation": "'Dull' is the antonym of 'shiny'. A shiny car looks bright and reflective, while a dull car lacks shine."
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "Which word means the opposite of 'polite'?",
+    "options": [
+      "Kind",
+      "Courteous",
+      "Respectful",
+      "Rude"
+    ],
+    "correct": 3,
+    "explanation": "'Rude' is the antonym of 'polite'. Polite behaviour is respectful and considerate, while rude behaviour is disrespectful or impolite."
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Select the antonym for 'quiet':",
+    "options": [
+      "Silent",
+      "Peaceful",
+      "Noisy",
+      "Calm"
+    ],
+    "correct": 2,
+    "explanation": "'Noisy' is the opposite of 'quiet'. A quiet environment has little sound, while a noisy one has a lot of loud or unpleasant sounds."
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Choose the correct spelling:",
+    "options": [
+      "Exctement",
+      "Excitement",
+      "Excitment",
+      "Exsitement"
+    ],
+    "correct": 1,
+    "explanation": "The correct spelling is 'E-X-C-I-T-E-M-E-N-T.' It is a feeling or situation full of joy and happiness."
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Choose the correct antonym sentence: 'The schoolbag is heavy.'",
+    "options": [
+      "The schoolbag is light.",
+      "The schoolbag is dark.",
+      "The schoolbag is ugly.",
+      "The schoolbag is rude."
+    ],
+    "correct": 0,
+    "explanation": "The opposite of 'heavy' is 'light.' In this context, 'light' is related to the weight of the schoolbag."
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Match the antonym pair: 'The giant was very tall, while the dwarf was very ____.'",
+    "options": [
+      "Big",
+      "Large",
+      "Short",
+      "High"
+    ],
+    "correct": 2,
+    "explanation": "'Short' is the antonym of 'tall'. Tall describes great height, while short describes little height."
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Choose the word that means the opposite of 'often':",
+    "options": [
+      "Always",
+      "Usually",
+      "Frequently",
+      "Rarely"
+    ],
+    "correct": 3,
+    "explanation": "'Rarely' is the antonym of 'often'. 'Often' means frequently or many times, while 'rarely' means seldom or not often."
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "What's the antonym of 'trouble'?",
+    "options": [
+      "Problem",
+      "Difficulty",
+      "Peace",
+      "Quick"
+    ],
+    "correct": 2,
+    "explanation": "'Peace' is the opposite of 'trouble'. Trouble implies problems or difficulties, while peace suggests calmness and lack of conflict."
+  }
+]
